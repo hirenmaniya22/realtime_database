@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980071098947",
+    "firebase_url": "https://realtimedatabase-de4ff-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabase-de4ff",
+    "storage_bucket": "realtimedatabase-de4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980071098947:android:73f1405b0cfe2b9a1b82f6",
+        "android_client_info": {
+          "package_name": "com.example.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980071098947-uasnfdsa445d9i2rj0me4mftor2s6tqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwgy8ZYGnM7O416ZHIYUifhdKTz6R81M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980071098947-uasnfdsa445d9i2rj0me4mftor2s6tqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
